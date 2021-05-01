@@ -1,0 +1,5 @@
+.input {
+    color: inherit; /* inherit = propriedade herdada do body*/
+    font-family: inherit;
+    font-size: inherit;
+}
